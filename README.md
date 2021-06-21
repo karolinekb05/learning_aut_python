@@ -1,2 +1,3 @@
-# learning_aut_python
-Intensivo de Python - Dia 1
+# Intensivo de Python - Dia 1
+
+Programa de Automação de processos e tarefas
